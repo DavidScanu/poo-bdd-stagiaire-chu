@@ -2,6 +2,8 @@
 
 David Scanu
 
+v1 - Ceci est la version initale du projet. 
+
 *01.12.2022*
 
 ---
